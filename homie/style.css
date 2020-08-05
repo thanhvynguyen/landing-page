@@ -1,0 +1,154 @@
+*{
+  font-family: 'Poppins', sans-serif;
+  box-sizing: border-box;
+  color: #283040;
+  text-decoration: none;
+  font-size: x-large;
+}
+
+body{
+  margin: 70px;
+}
+
+#title,
+#features{
+  font-weight: bold;
+  color: #EDB574;
+  font-size: 1.50em;
+}
+
+#features{
+  padding-left: 100px;
+}
+
+.team{
+  float: right;
+  margin-top: 40px;
+  font-weight: normal;
+}
+
+.mybtn {
+    border-radius: 15px;
+    background-color: #EDB574;
+    color: black;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    padding-left: 12px;
+}
+
+.container-center{
+  width:1000px;
+  margin:0 auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.section1{
+  text-align: right;
+  padding-right: 50px;
+}
+
+.container-left{
+  width: 1000px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: right;
+  align-items: left;
+}
+
+.section2{
+  text-align: left;
+  padding-left: 50px;
+}
+
+.container-right{
+  width: 1000px;
+  margin:0 auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: left;
+  align-items: right;
+}
+
+.section3{
+  text-align: right;
+  padding-right: 50px;
+  width: 800px;
+}
+
+.section4{
+  align-items: center;
+  padding-left: 100px;
+}
+
+#match{
+  color: #659CA3;
+  font-weight: bold;
+  font-size: 1.5em;
+}
+
+#roommates{
+  color: #283040;
+  font-weight: bold;
+  font-size: 1.5em;
+}
+
+hr {
+  height: 10px;
+  background-color: #659CA3;
+  border: none;
+  width: 100%;
+}
+
+#housing,
+h1{
+  color: #283040;
+  font-size: 1.5em;
+  font-weight: bold;
+}
+
+h3{
+  color: #659CA3;
+  font-weight: bold;
+  font-size: 1.5em;
+}
+
+h4{
+  font-weight: bold;
+  text-align: center;
+  font-size: 1.5em;
+  color: #EDB574;
+}
+
+h5{
+  font-size: 1em;
+  font-weight: normal;
+}
+
+.description{
+  font-weight: lighter;
+}
+
+#problem,
+#communication,
+#who{
+  color:#659CA3;
+  font-size: 1.5em;
+  font-weight: bold;
+}
+
+.top{
+  font-size: .65em;
+  font-weight: lighter;
+}
+
+@media (min-width: 767px) and (max-width: 992px){
+  body{
+    width: 100%;
+  }
+}
+
+
