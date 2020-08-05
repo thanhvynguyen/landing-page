@@ -18,7 +18,7 @@ body{
 }
 
 #features{
-  padding-left: 100px;
+  padding-left: 80px;
 }
 
 .team{
@@ -76,6 +76,7 @@ body{
 .section3{
   text-align: right;
   padding-right: 50px;
+  padding-top: 30px;
   width: 800px;
 }
 
