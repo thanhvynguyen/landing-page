@@ -80,8 +80,7 @@ body{
 }
 
 .section4{
-  align-items: center;
-  padding-left: 100px;
+  text-align: center;
 }
 
 #match{
