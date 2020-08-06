@@ -80,6 +80,11 @@ body{
   width: 800px;
 }
 
+.entire-section{
+  align-content: center;
+  padding-left: 320px;
+}
+
 .section4{
   text-align: center;
 }
