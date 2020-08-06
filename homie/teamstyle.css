@@ -16,20 +16,31 @@ body{
   margin-top: 40px;
   font-weight: normal;
   margin-right: 5px;
-  color: #283040;
+  color: #EDB574;
   font-size: 1.0em;
   font-size: x-large;
+}
+
+ #fabby{
+ 	font-style: italic;
+ 	color: #659CA3;
+ }
+ #team{
+ 	font-style: normal;
+ 	color: #283040;
+ }
 }
 .container{
 font-size: x-large;
 }
 
-h2{
+.heading{
   color: #283040;
   text-align: center;
   margin-top: 40px;
   margin-bottom: 20px;
   font-weight: lighter;
+  font-size: 2.0em;
 }
 
 .row{
