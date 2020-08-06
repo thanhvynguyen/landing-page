@@ -20,14 +20,19 @@ body{
   font-size: 1.0em;
   font-size: x-large;
 }
-
  #fabby{
  	font-style: italic;
  	color: #659CA3;
+ 	text-shadow: 2px 2px #D3D3D3;
+ 	font-style: bold;
  }
  #team{
- 	font-style: normal;
- 	color: #283040;
+ 	font-style: italic;
+ 	color: #659CA3;
+ 	text-shadow: 2px 2px #D3D3D3;
+ 	font-style: bold;
+ 	font-style: italic;
+}
  }
 }
 .container{
