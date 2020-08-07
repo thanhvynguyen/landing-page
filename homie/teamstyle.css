@@ -2,24 +2,29 @@
   box-sizing: border-box;
   font-family:  'Poppins', sans-serif;
   text-decoration: none;
+  font-size: x-large;
 }
 body{
-  margin: 50px;
+  margin: 70px;
+}
+
+.container{
+	padding-bottom: 0px;
 }
 #title{
   font-weight: bold;
   color: #EDB574;
   font-size: 1.50em;
+  padding-bottom: 0px;
 }
 .home{
   float: right;
-  margin-top: 40px;
+  margin-top: 37px;
   font-weight: normal;
   margin-right: 5px;
   color: #EDB574;
   font-size: 1.0em;
-  font-size: x-large;
-}
+  }
  #fabby{
  	font-style: italic;
  	color: #659CA3;
@@ -33,30 +38,27 @@ body{
  	font-style: bold;
  	font-style: italic;
 }
- }
-}
-.container{
-font-size: x-large;
-}
-
 .heading{
   color: #283040;
   text-align: center;
-  margin-top: 40px;
-  margin-bottom: 20px;
+  margin-top: 0px;
+  margin-bottom: 0px;
   font-weight: lighter;
-  font-size: 2.0em;
+  font-size: 2.5em;
+  padding-top: 0px;
+  margin: 0px;
 }
 
 .row{
   width: 100%;
+  padding-top: 0px;
 }
 
 .thing1,
 .thing2,
 .thing3,
 .thing4{
-  padding: 10px;
+  padding: 0px;
   float:left;
   font-weight: lighter;
 }
@@ -66,8 +68,22 @@ font-size: x-large;
   background-color: #F8F8FF;
   border-radius: 10px;
   border: 3px solid #659CA3;
-  padding: 10px;
+  padding: 5px;
   text-align: center;
+  width: 320px;
+  height:450px;
+}
+#names{
+	font-style: italic;
+	text-shadow: 2px 2px #659CA3;
+}
+
+#major{
+	font-size: .50em;
+}
+
+#deets{
+	font-size: .75em;
 }
 
 

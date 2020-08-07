@@ -23,7 +23,7 @@ body{
 
 .team{
   float: right;
-  margin-top: 40px;
+  margin-top: 37px;
   font-weight: normal;
 }
 
@@ -132,6 +132,7 @@ h4{
 h5{
   font-size: 1em;
   font-weight: normal;
+  padding-bottom: 0px;
 }
 
 .description{
