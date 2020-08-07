@@ -11,6 +11,9 @@ body{
 .container{
 	padding-bottom: 0px;
 }
+.main-title{
+	padding-left: 110px;
+}
 #title{
   font-weight: bold;
   color: #EDB574;
