@@ -121,12 +121,26 @@ h4{
   text-align: center;
   font-size: 1.5em;
   color: #EDB574;
+  margin-bottom: 0px;
+  margin-top: 10px;
 }
 
 h5{
   font-size: 1em;
   font-weight: normal;
   padding-bottom: 0px;
+}
+
+h6{
+  float: center;
+  padding: 10px;
+  text-align: center;
+  margin-top: 0px;
+}
+
+.prototype{
+  text-align: center;
+
 }
 
 .description{
