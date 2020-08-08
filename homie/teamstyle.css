@@ -65,6 +65,7 @@ body{
   float:left;
   font-weight: lighter;
   margin: 0px;
+  padding-left: 5px;
 }
 
 .description{
@@ -94,7 +95,7 @@ body{
 
 
 /***Desktop View***/
-@media (min-width: 992px){
+/**@media (min-width: 992px){
 .thing1,
 .thing2,
 .thing3,
@@ -104,7 +105,7 @@ body{
 }
 
 /***Tablet View***/
-@media (min-width: 768px) and (max-width: 991px){
+/**@media (min-width: 768px) and (max-width: 991px){
 .thing1,
 .thing2,
 .thing3,
@@ -114,11 +115,11 @@ body{
 }
 
 /***Mobile View***/
-@media (max-width: 767px){
+/**@media (max-width: 767px){
 .thing1,
 .thing2,
 .thing3,
 .thing4{
     width: 100%;
   }
-}
+}*/
