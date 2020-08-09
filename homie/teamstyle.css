@@ -1,6 +1,6 @@
 *{
   box-sizing: border-box;
-  font-family:  'Poppins', sans-serif;
+  font-family: 'Poppins', sans-serif;
   text-decoration: none;
   font-size: x-large;
 }
@@ -54,7 +54,7 @@ body{
 }
 
 .row{
- 
+  width: 100%;
   padding-top: 0px;
 }
 
@@ -102,7 +102,7 @@ body{
 .thing2,
 .thing3,
 .thing4{
-    width: 325px;
+    width: 25%;
     align-content: center;
   }
 }
@@ -113,7 +113,7 @@ body{
 .thing2,
 .thing3,
 .thing4{
-    width: 650px;
+    width: 50%;
     align-content: center;
   }
 }
@@ -124,7 +124,7 @@ body{
 .thing2,
 .thing3,
 .thing4{
-    width: 1300px;
+    width: 100%;
     align-content: center;
   }
-}*/
+}
