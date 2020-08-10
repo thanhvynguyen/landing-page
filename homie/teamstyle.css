@@ -127,5 +127,6 @@ body{
 .thing4{
     width: 100%;
     align-content: center;
+    display: inline-block;
   }
 }
