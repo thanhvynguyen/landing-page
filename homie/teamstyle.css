@@ -95,8 +95,9 @@ body{
 	font-size: .75em;
 }
 
+
 /***Desktop View***/
-@media (min-width: 1200px){
+@media (min-width: 1000px){
 .thing1,
 .thing2,
 .thing3,
@@ -107,7 +108,7 @@ body{
 }
 
 /***Other Views***/
-@media (min-width: 200px) and (max-width: 1199px){
+@media (min-width: 200px) and (max-width: 999px){
 .thing1,
 .thing2,
 .thing3,
