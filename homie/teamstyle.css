@@ -96,7 +96,7 @@ body{
 }
 
 /***Desktop View***/
-@media (min-width: 992px){
+@media (min-width: 1200px){
 .thing1,
 .thing2,
 .thing3,
@@ -107,14 +107,15 @@ body{
 }
 
 /***Other Views***/
-@media (min-width: 200px) and (max-width: 991px){
+@media (min-width: 200px) and (max-width: 1199px){
 .thing1,
 .thing2,
 .thing3,
 .thing4{
-    width: 100%;
+    width: 50%;
     margin: auto;
-    padding-left: 250px;
+    padding-left: 50px;
+    padding-right: 50px;
     align-content: center;
   }
 }
