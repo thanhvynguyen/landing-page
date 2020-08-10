@@ -114,7 +114,7 @@ body{
 .thing2,
 .thing3,
 .thing4{
-    width: 50%;
+    width: 100%;
     align-content: center;
   }
 }
@@ -128,5 +128,6 @@ body{
     width: 100%;
     align-content: center;
     display: inline-block;
+    height: 100%;
   }
 }
