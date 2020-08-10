@@ -5,6 +5,9 @@
   font-size: x-large;
   overflow: scroll;
 }
+.entire-page{
+	align-content: center;
+}
 body{
   margin: 70px;
   align-content: center;
@@ -97,7 +100,31 @@ body{
 
 
 
+
 /***Desktop View***/
+@media (min-width: 992px){
+.entire-page{
+    width: 100%;
+    align-content: center;
+  }
+}
+
+/***Tablet View***/
+@media (max-width: 768px) and (max-width: 991px){
+.entire-page{
+    width: 100%;
+    align-content: center;
+  }
+}
+
+/***Mobile View***/
+@media (max-width: 767px){
+.entire-page{
+    width: 100%;
+    align-content: center;
+  }
+}
+}/***Desktop View***/
 @media (min-width: 992px){
 .thing1,
 .thing2,
