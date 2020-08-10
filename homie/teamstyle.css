@@ -8,6 +8,7 @@
 body{
   margin: 70px;
   align-content: center;
+  overflow: scroll;
 }
 
 .container{
@@ -102,7 +103,6 @@ body{
 .thing4{
     width: 25%;
     align-content: center;
-    overflow: scroll;
   }
 }
 
@@ -116,7 +116,6 @@ body{
     margin: auto;
     padding-left: 250px;
     align-content: center;
-    overflow: scroll;
   }
 }
 
